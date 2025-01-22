@@ -66,7 +66,7 @@ A high-level workflow looks like this:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/PhiNance.git
+   git clone https://github.com/praneeth2005/PhiNance.git
    cd PhiNance
    ```
 
