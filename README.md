@@ -20,6 +20,12 @@
 ---
 
 ## Introduction
+![image](https://github.com/user-attachments/assets/36c50e8a-b78f-41f0-ab92-82747e67ee80)
+
+
+![image](https://github.com/user-attachments/assets/8b427efe-9e11-4f11-9e61-117c8e26d581)
+
+
 
 **PhiNance** is an AI-driven financial project designed to simplify market research, automatically aggregate breaking finance news, and offer insights in near-real time. Whether you’re a retail trader, financial analyst, or AI enthusiast, PhiNance aims to streamline how you interact with voluminous financial data.
 
