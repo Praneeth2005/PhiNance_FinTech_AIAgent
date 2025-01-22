@@ -142,7 +142,6 @@ Contributions are welcome! To suggest improvements or report bugs:
 3. **Commit** and **push** your changes.  
 4. **Open a Pull Request** describing your changes in detail.
 
-We’re open to any new modules—portfolio analytics, forecasting, advanced sentiment analysis, or improved UI features.
 
 ---
 
@@ -157,7 +156,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 For feedback, collaboration, or more information, feel free to:
 
 - **Create an Issue** on GitHub  
-- **Email:**
+- **Email:**pranee26032005@gmail.com
 - **Connect on LinkedIn:** Praneeth Kilari (https://www.linkedin.com/in/praneethkilari/)  
 
 Let’s harness the power of **PhiNance** to make smarter, faster decisions in the world of finance!  
